@@ -1,8 +1,4 @@
 #EXTM3U
-
-
-
-
 #EXTGRP:solo leving
 #EXTINF: -1:,temporada 1
 #EXTART:https://archive.org/download/boku-no-hero-4/solo%20leving.jpg
@@ -12,13 +8,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",1
-https://dl.dropbox.com/scl/fi/niovn3ssce5kvgfqjc3d4/solo1.mp4?rlkey=r4mrvxn3y1fop55638ubp4mit&st=m1ryu2el&dl=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",2
-https://dl.dropbox.com/scl/fi/ljbm9uogc48whcujjpupy/solo2.mp4?rlkey=4c0qwxkx7arcl8hoo133azvjj&st=wno6cq3f&dl=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",3
-https://dl.dropbox.com/scl/fi/4wwxeaazktfxrqwys0pv0/solo3.mp4?rlkey=6pjwr8ass6bimxzv84um5tyb6&st=ofjrbmuc&dl=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",5
 
